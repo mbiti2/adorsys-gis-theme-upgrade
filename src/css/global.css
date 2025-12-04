@@ -58,7 +58,7 @@
 
   /* Layout */
   .app-card {
-    @apply p-4 bg-white border border-gray-200 rounded-lg sm:max-w-80 sm:mx-auto sm:mt-4 sm:p-6;
+    @apply p-4 bg-white rounded-lg sm:max-w-80 sm:mx-auto sm:mt-4 sm:p-6;
   }
 
   .form-long {
