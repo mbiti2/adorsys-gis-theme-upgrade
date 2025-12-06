@@ -5,3 +5,9 @@ This plugin develops a small plugin for adorsys GIS. It's meant to be integrated
 - Webpack
 - DaisyUI
 - Bash Scripting 🤣
+
+
+
+
+
+
